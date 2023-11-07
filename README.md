@@ -1,13 +1,17 @@
+# 👋 Welcome. YKNLWCA's Github 👋
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyknlwca&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknlwca&show_icons=true&theme=gotham&hide_title=True&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yknlwca&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknlwca&show_icons=true&theme=gotham)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
-<img src="http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark"/>[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
 
-# 💪Skills
+# 💪Learnings
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
