@@ -13,8 +13,7 @@
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)![mazandi profile](http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark)
 
 
 ## 💪Learnings
