@@ -11,7 +11,7 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark"/>[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
 
-# 💪Learnings
+## 💪Learnings
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
@@ -25,6 +25,6 @@
 ![yolo](https://img.shields.io/badge/yolo-00FFFF.svg?&style=for-the-badge&logo=yolo&logoColor=white)
 
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choikwanglim3115@gmail.com)](mailto:choikwanglim3115@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:choikl3115@naver.com)](mailto:choikl3115@naver.com)
