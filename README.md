@@ -40,6 +40,7 @@
 ![keras](https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![yolo](https://img.shields.io/badge/yolo-00FFFF.svg?&style=for-the-badge&logo=yolo&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
 
 ## :mailbox_with_mail: Contacts
