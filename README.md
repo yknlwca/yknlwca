@@ -33,7 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![pypi](https://img.shields.io/badge/pypi-3775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white)
 ![folium](https://img.shields.io/badge/folium-77B829.svg?&style=for-the-badge&logo=folium&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
