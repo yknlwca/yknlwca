@@ -13,7 +13,6 @@
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yknlwca&show_icons=true&theme=gotham&hide_title=true&hide_rank=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yknlwca&hide_progress=true&theme=gotham">
 </p>
 
