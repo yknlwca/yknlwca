@@ -1,8 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Y.N.W.A&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-
 
 # 👋Welcome👋
 
@@ -17,9 +14,6 @@
 </p>
 
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yknlwca&theme=dark)
 
 
 ## 💪Learnings
