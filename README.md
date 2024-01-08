@@ -9,13 +9,6 @@
 
 
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yknlwca&hide_progress=true&theme=gotham">
-</p>
-
-
-
-
 ## 💪Learnings
 ![eclipseide](https://img.shields.io/badge/eclipseide-000000.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
