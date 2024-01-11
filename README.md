@@ -13,14 +13,14 @@
 ![eclipseide](https://img.shields.io/badge/eclipseide-000000.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
 
 ![Python](https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![django](https://img.shields.io/badge/django-000000.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-
+![html5](https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![tensorflow](https://img.shields.io/badge/tensorflow-000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-000000.svg?&style=for-the-badge&logo=keras&logoColor=white)
