@@ -19,8 +19,8 @@
 
 ![Python](https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![html5](https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/html-000000.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![tensorflow](https://img.shields.io/badge/tensorflow-000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-000000.svg?&style=for-the-badge&logo=keras&logoColor=white)
