@@ -13,7 +13,7 @@
 ![eclipseide](https://img.shields.io/badge/eclipseide-000000.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSC-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
 
