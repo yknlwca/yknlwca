@@ -29,6 +29,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choikwanglim3115@gmail.com)](mailto:choikwanglim3115@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:choikl3115@naver.com)](mailto:choikl3115@naver.com)
 
-choikl3115@naver.com
+:mailbox_with_mail: choikl3115@naver.com
 
 </div>
