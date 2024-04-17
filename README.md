@@ -16,9 +16,8 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
 ![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![html](https://img.shields.io/badge/html-000000.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-000000.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/nodedotjs-000000.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![tensorflow](https://img.shields.io/badge/tensorflow-000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-000000.svg?&style=for-the-badge&logo=keras&logoColor=white)
