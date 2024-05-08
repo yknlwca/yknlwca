@@ -17,7 +17,8 @@
 
 ![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-000000.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![vue.js](https://img.shields.io/badge/vue.js-000000.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+
 
 ![tensorflow](https://img.shields.io/badge/tensorflow-000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-000000.svg?&style=for-the-badge&logo=keras&logoColor=white)
