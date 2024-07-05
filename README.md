@@ -11,19 +11,13 @@
 
 ## 💪Learnings
 ![eclipseide](https://img.shields.io/badge/eclipseide-000000.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![c++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSC-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-000000.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-
-
-![tensorflow](https://img.shields.io/badge/tensorflow-000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/keras-000000.svg?&style=for-the-badge&logo=keras&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-000000.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-![tableau](https://img.shields.io/badge/tableau-000000.svg?&style=for-the-badge&logo=tableau&logoColor=white)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choikwanglim3115@gmail.com)](mailto:choikwanglim3115@gmail.com)
