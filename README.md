@@ -11,6 +11,7 @@
 
 ## 💪Learnings
 ![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white)
 
@@ -25,3 +26,4 @@
 :mailbox_with_mail: choikl3115@naver.com
 
 </div>
+
