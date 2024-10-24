@@ -10,12 +10,11 @@
 
 
 ## 💪Learnings
-![eclipseide](https://img.shields.io/badge/eclipseide-000000.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSC-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-000000.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![react](https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=white)
 
