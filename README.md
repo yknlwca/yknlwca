@@ -7,7 +7,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
 
-
+  <h3>✨Portfolio✨</h3>
+  <p>
+    <a href="https://classic-lord-63d.notion.site/37512c0d5df3447380de183cd18dd739?pvs=4">
+      <img src="https://img.shields.io/badge/포트폴리오-FFFFFF?style=flat&logo=notion&logoColor=black"/>
+    </a>
+  </p>
 
 ## 💪Learnings
 ![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
