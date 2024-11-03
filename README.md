@@ -7,12 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yknlwca)](https://solved.ac/yknlwca)
 
-  <h3>✨Portfolio✨</h3>
-  <p>
-    <a href="https://classic-lord-63d.notion.site/37512c0d5df3447380de183cd18dd739?pvs=4">
-      <img src="https://img.shields.io/badge/포트폴리오-FFFFFF?style=flat&logo=notion&logoColor=black"/>
-    </a>
-  </p>
+
 
 ## 💪Learnings
 ![springboot](https://img.shields.io/badge/springboot-000000.svg?&style=for-the-badge&logo=springboot&logoColor=white)
@@ -23,6 +18,13 @@
 ![kotlin](https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-000000.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![react](https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=white)
+
+  ## ✨Portfolio✨
+  <p>
+    <a href="https://classic-lord-63d.notion.site/37512c0d5df3447380de183cd18dd739?pvs=4">
+      <img src="https://img.shields.io/badge/포트폴리오-FFFFFF?style=flat&logo=notion&logoColor=black"/>
+    </a>
+  </p>
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choikwanglim3115@gmail.com)](mailto:choikwanglim3115@gmail.com)
