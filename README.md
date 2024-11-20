@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=100&animation=fadeIn)
 
 <div align="center">
 	<a href="https://github.com/yknlwca/">
@@ -33,6 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choikwanglim3115@gmail.com)](mailto:choikwanglim3115@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:choikl3115@naver.com)](mailto:choikl3115@naver.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&customColorList=8,2,0,0,12&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&customColorList=8,2,0,0,12&height=100&section=footer)
 
 </div>
