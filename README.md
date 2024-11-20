@@ -1,7 +1,12 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&animation=fadeIn)
 
-# 👋Welcome👋
+<div align="center">
+	<a href="https://github.com/yknlwca/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yknlwca&show_icons=true&theme=default&hide_border=true&bg_color=000000&icon_color=ffffff&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true"/> 
+</a>
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyknlwca&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
@@ -32,5 +37,6 @@
 
 :mailbox_with_mail: choikl3115@naver.com
 
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&customColorList=8,2,0,0,12&height=150&section=footer)
 
+</div>
