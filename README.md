@@ -16,6 +16,7 @@
 ## Skills
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![c++](https://img.shields.io/badge/c++-000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![kotlin](https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
